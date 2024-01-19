@@ -1,0 +1,20 @@
+[
+     { 
+       "name" : "himanshu",
+       "featured":true,
+       "Password":153
+     },
+     
+     { 
+       "name" : "Aman",
+       "featured":true,
+       "Password":915
+     },
+     
+     { 
+       "name" : "Harshit",
+       "featured":true,
+       "Password":731
+     }
+
+]
